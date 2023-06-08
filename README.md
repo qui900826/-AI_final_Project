@@ -8,7 +8,8 @@ Overview
 - use the OpenCLIP image-text model on videos
 - descriptive results that encapsulate the content of the video
 
-Prerequisite (your coding environment, packages version (e.g., requirements.txt in Python)), 
+Prerequisite
+- colab
 
 usage, 
 
