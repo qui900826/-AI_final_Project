@@ -16,4 +16,6 @@ Usage
 
 hyperparameters you set, 
 
-experiment results, and so on.
+Experiment results
+- output_new.mp4
+- output_interpolate2.mp4
