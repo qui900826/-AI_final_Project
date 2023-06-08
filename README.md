@@ -11,7 +11,8 @@ Overview
 Prerequisite
 - colab
 
-usage, 
+Usage
+- Quickly understand the content of the video through text.
 
 hyperparameters you set, 
 
