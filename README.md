@@ -14,8 +14,6 @@ Prerequisite
 Usage
 - Quickly understand the content of the video through text.
 
-hyperparameters you set, 
-
 Experiment results
 - output_new.mp4
 - output_interpolate_2.mp4
