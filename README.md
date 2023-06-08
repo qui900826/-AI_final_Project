@@ -18,4 +18,4 @@ hyperparameters you set,
 
 Experiment results
 - output_new.mp4
-- output_interpolate2.mp4
+- output_interpolate_2.mp4
